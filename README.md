@@ -6,7 +6,7 @@
 * [liuruoze/EasyPR](https://github.com/liuruoze/EasyPR)  
 * [zhubenfu/License-Plate-Detect-Recognition-via-Deep-Neural-Networks-accuracy-up-to-99.9](https://github.com/zhubenfu/License-Plate-Detect-Recognition-via-Deep-Neural-Networks-accuracy-up-to-99.9)  
 ### 2016
-[openalpr/openalpr](https://github.com/openalpr/openalpr)  
+* [openalpr/openalpr](https://github.com/openalpr/openalpr)  
 ## Dataset 数据集
 ### 2018
 * [detectRecog/CCPD](https://github.com/detectRecog/CCPD)  
